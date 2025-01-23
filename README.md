@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Artonyx;
-- 👀 I’m interested in art, programming, crafts, gaming, books and movies;
+- 👀 I’m interested in art, programming, crafts, music, gaming, books and movies;
 - 🌱 I’m currently learning C++;
 - 📫 How to reach me:
 - Discord: @Artonyx;
