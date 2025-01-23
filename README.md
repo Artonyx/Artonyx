@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Artonyx;
 - 👀 I’m interested in art, programming, crafts, music, gaming, books and movies;
-- 🌱 I’m currently learning C++;
+- 🌱 I’m currently learning Python;
 - 📫 How to reach me:
 - Discord: @Artonyx;
 - Some other socials listed in my carrd;
