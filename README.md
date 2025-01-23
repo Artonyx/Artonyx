@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++;
 - 📫 How to reach me:
 - Discord: @Artonyx;
+- Some other socials listed in my carrd;
 - 😄 Pronouns: they/them;
 - ⚡ Fun fact: i was forced to create this account by my school, pls send help.
 
